@@ -4,7 +4,8 @@
 char* test();
 int tester();
 
-int main(){
+int main2(){
+	return 0;
 }
 
 
