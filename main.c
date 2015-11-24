@@ -12,5 +12,4 @@ int main2(){
 int tester()
 {
 	char* p =test();
-	return (int)*p;
 }
