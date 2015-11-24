@@ -1,4 +1,6 @@
+#include "stdio.h"
+
 int new_func()
 {
-	char* p = 'a';
+	int a = 1;
 }
